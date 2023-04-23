@@ -1,9 +1,11 @@
 <<<<<<< HEAD
-class hello
+class hello Jamuna2
 {
-	public static main void ()
+	public static main void (1)
+	public static main void (2)
 	{
 		system.out.println ("hello from JK")
+		system.out.println ("hello from JK2")
 	}
 }
 
