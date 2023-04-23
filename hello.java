@@ -1,18 +1,11 @@
 <<<<<<< HEAD
-class hello
-{
-	public static main void ()
+class hello Jamuna1
+	public static main void (1)
+	publich static void main (2)
 	{
 		system.out.println ("hello from JK")
+		system.out.println ("hello from JK2")
 	}
 }
 
-=======
-class hello ()
-{
-	public static void main ()
-	{
-		system.out.println("hello from Jamuna")
-	}
-}
 >>>>>>> dc9178dd2b087f1dc15dbf19b35a887d09d68ff4
