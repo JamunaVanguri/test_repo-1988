@@ -1,0 +1,7 @@
+class Jamuna
+{
+public static void main ()
+{
+system.out.println ("Hello from Dev1")
+}
+}
