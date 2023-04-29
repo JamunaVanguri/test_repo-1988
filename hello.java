@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-class hello Jamuna2
+class hello Jamuna
 {
 	public static main void (1)
 	public static main void (2)
