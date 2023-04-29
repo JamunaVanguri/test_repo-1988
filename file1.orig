@@ -1,0 +1,9 @@
+
+hello from file1
+Today is 22nd April 2023
+<<<<<<< HEAD
+today is 23rd april 2023`:wq
+
+=======
+today is 23rd april 2023-Sunday
+>>>>>>> ef1b4550ab1a31a69fc5ddf30402a7df30870ebe
